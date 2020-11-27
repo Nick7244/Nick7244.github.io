@@ -2,7 +2,8 @@
 About Me
 [Academic Projects](../academicProjects/index.md){:style="margin-right: 30px;margin-left: 30px;"}
 [Personal Projects](../personalProjects/index.md){:style="margin-right: 30px;"}
-[Interests & Hobbies](../interestsAndHobbies/index.md){:style="margin-right: 30px;"}
+[Industry Experience](industryExperience/index.md)
+[Hobbies](../hobbies/index.md){:style="margin-right: 30px;"}
 [Travel](../travel/index.md)
 
 # About Me
