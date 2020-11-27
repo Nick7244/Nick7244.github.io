@@ -8,4 +8,4 @@ Personal Projects
 
 # Personal Projects
 
-Stay tuned, more to come soon!
+***Stay tuned, more to come soon!***
