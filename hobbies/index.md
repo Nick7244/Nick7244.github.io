@@ -2,10 +2,10 @@
 [About Me](../aboutMe/index.md){:style="margin-right: 30px;"}
 [Academic Projects](../academicProjects/index.md){:style="margin-right: 30px;"}
 [Personal Projects](../personalProjects/index.md){:style="margin-right: 30px;"}
-Industry Experience
-[Hobbies](../hobbies/index.md){:style="margin-right: 30px;margin-left: 30px;"}
-[Travel](../travel/index.md)
+[Industry Experience](../industryExperience/index.md){:style="margin-right: 30px;"}
+Hobbies
+[Travel](../travel/index.md){:style="margin-left: 30px;"}
 
-# Industry Experience
+# Interests And Hobbies
 
 Stay tuned, more to come soon!

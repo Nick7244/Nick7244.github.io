@@ -2,7 +2,7 @@
 About Me
 [Academic Projects](../academicProjects/index.md){:style="margin-right: 30px;margin-left: 30px;"}
 [Personal Projects](../personalProjects/index.md){:style="margin-right: 30px;"}
-[Industry Experience](industryExperience/index.md)
+[Industry Experience](../industryExperience/index.md){:style="margin-right: 30px;"}
 [Hobbies](../hobbies/index.md){:style="margin-right: 30px;"}
 [Travel](../travel/index.md)
 
@@ -20,7 +20,7 @@ My journey started in Long Island, NY. I grew up and spent most of my life there
 
 This is the view I had every summer night growing up, being a 5 minute walk to the beach.
 
-After leaving Long Island to attend college, I journeyed my way down to Baltimore, Maryland to persue my passion for engineering at The Johns Hopkins University. Hopkins has been my home for the past 4 and a half years, and has some pretty nice sights of its own! One of my favorite parts of campus is the view of the Gilman clock tower at sunset.
+After leaving Long Island to attend college, I journeyed my way down to Baltimore, Maryland to pursue my passion for engineering at The Johns Hopkins University. Hopkins has been my home for the past 4 and a half years, and has some pretty nice sights of its own! One of my favorite parts of campus is the view of the Gilman clock tower at sunset.
 
 <p align="center">
 <img width="555" height="300" src="../pics/Gilman.jpg">
