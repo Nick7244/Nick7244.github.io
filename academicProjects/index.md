@@ -47,6 +47,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+Topics of interest:
 - Medical Device Start-up
 - Prototype Research & Development
 - Physical Therapy Data Analysis
@@ -60,9 +61,14 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+<img align="right" width="341" height="400" src="../../pics/RobustICA.jpg">{:style="margin-left: 10px;"}
+This project was completed through the REU program at University of Washington, Bothell. I worked under Dr. Hung Cao and Dr. Tadesse Ghirmai to develop an algorithm that could take abdominal ECG (aECG) data from a pregnant mother, extract out the separate fetal ECG (fECG) and maternal ECG (mECG) signals, while simultaneously removing any motion artifacts present in the signal. This algorithm utilizes Independent Component Analysis (ICA), and an analysis was done comparing results from using FastICA vs. RobustICA.
+
+Topics of interest:
+- Wearable Medical Devices
 - Digital Signal Processing
-- MATLAB
-- C++
+- MATLAB Programming
+- C++ Programming
 
 Stay tuned, more to come soon!
 
@@ -80,6 +86,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+Topics of interest:
 - MATLAB
 - Control Theory
 - Optimization
@@ -93,6 +100,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+Topics of interest:
 - Computer Vision
 - Machine Learning
 - Python Programming
@@ -107,6 +115,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+Topics of interest:
 - Analog Signal Processing
 - Robot Sensors & Actuators
 - Arduino Programming
@@ -119,6 +128,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+Topics of interest:
 - Analog Signal Processing
 - Arduino Programming
 
@@ -130,6 +140,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+Topics of interest:
 - Arduino Programming
 - Robot Sensors & Actuators
 
@@ -141,6 +152,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+Topics of interest:
 - C++
 
 Stay tuned, more to come soon!
@@ -151,6 +163,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+Topics of interest:
 - C++
 - Image Processing
 
