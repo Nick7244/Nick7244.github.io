@@ -1,8 +1,8 @@
 [**Home**](../index.md)<br/><br/>
 **About Me**
 [**Academic Projects**](../academicProjects/index.md){:style="margin-right: 18px;margin-left: 18px;"}
-[**Personal Projects**](../personalProjects/index.md){:style="margin-right: 18px;"}
 [**Industry Experience**](../industryExperience/index.md){:style="margin-right: 18px;"}
+[**Personal Projects**](../personalProjects/index.md){:style="margin-right: 18px;"}
 [**Hobbies**](../hobbies/index.md){:style="margin-right: 18px;"}
 [**Travel**](../travel/index.md)
 
@@ -32,7 +32,7 @@ I graduated with my B.S. in Biomedical Engineering in May 2020. Unfortunately, d
 <img width="300" height="300" src="../pics/Graduation.jpg">
 </p>
 
-Since having graduated with my bachelor's, I am currently pursuing my master's in Robotics Engineering (also at the Hop!). Feel free to check out some of the projects I'm working on [here](../personalProjects/index.md)!
+Since having graduated with my bachelor's, I am currently pursuing my master's in Robotics Engineering (also at the Hop!). Feel free to check out some of the projects I'm working on [**here**](../academicProjects/index.md)!
 
 
 
