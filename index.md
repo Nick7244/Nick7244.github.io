@@ -1,8 +1,21 @@
-![20200514_161518 (2)(1)(1)](https://user-images.githubusercontent.com/45133540/100412134-bacdf780-3041-11eb-9743-59d1001ce30f.jpg){:style="float: left;margin-left: 0px;margin-top: 0px;"}
+<a href="docs/index.md">About Me</a>
 
-Hello
+[About Me](test.md){:style="margin-right: 20px;"}
+[Academic Projects](docs/academicProjects.md){:style="margin-right: 20px;"}
+[Personal Projects](docs/personalProjects.md){:style="margin-right: 20px;"}
+[Interests & Hobbies](docs/hobbies.md)
 
-# This is a header
-## This is a sub header
 
-test
+<img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/45133540/100413128-91fb3180-3044-11eb-908f-d505aeb59f33.jpg">{:style="margin-right: 20px;margin-bottom: 50px; margin-top: 20px"}
+# Hello there!
+
+I see you've found your way over to my little corner of the internet. Well, now that your here, have a look around! I've got a ton of cool projects you can check out, like [this one](docs/academicProjects/palpationRobot.md)!
+
+
+
+
+
+
+
+
+Contact me with any questions: nmarita1@jhu.edu
