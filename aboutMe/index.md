@@ -1,10 +1,10 @@
-[Home](../index.md)<br/><br/>
-About Me
-[Academic Projects](../academicProjects/index.md){:style="margin-right: 30px;margin-left: 30px;"}
-[Personal Projects](../personalProjects/index.md){:style="margin-right: 30px;"}
-[Industry Experience](../industryExperience/index.md){:style="margin-right: 30px;"}
-[Hobbies](../hobbies/index.md){:style="margin-right: 30px;"}
-[Travel](../travel/index.md)
+[**Home**](../index.md)<br/><br/>
+**About Me**
+[**Academic Projects**](../academicProjects/index.md){:style="margin-right: 18px;margin-left: 18px;"}
+[**Personal Projects**](../personalProjects/index.md){:style="margin-right: 18px;"}
+[**Industry Experience**](../industryExperience/index.md){:style="margin-right: 18px;"}
+[**Hobbies**](../hobbies/index.md){:style="margin-right: 18px;"}
+[**Travel**](../travel/index.md)
 
 # About Me
 

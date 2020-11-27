@@ -1,10 +1,10 @@
-[Home](../index.md)<br/><br/>
-[About Me](../aboutMe/index.md){:style="margin-right: 30px;"}
-Academic Projects
-[Personal Projects](../personalProjects/index.md){:style="margin-right: 30px;margin-left: 30px;"}
-[Industry Experience](../industryExperience/index.md){:style="margin-right: 30px;"}
-[Hobbies](../hobbies/index.md){:style="margin-right: 30px;"}
-[Travel](../travel/index.md)
+[**Home**](../index.md)<br/><br/>
+[**About Me**](../aboutMe/index.md){:style="margin-right: 18px;"}
+**Academic Projects**
+[**Personal Projects**](../personalProjects/index.md){:style="margin-right: 18px;margin-left: 18px;"}
+[**Industry Experience**](../industryExperience/index.md){:style="margin-right: 18px;"}
+[**Hobbies**](../hobbies/index.md){:style="margin-right: 18px;"}
+[**Travel**](../travel/index.md)
 
 # Academic Projects
 
@@ -14,8 +14,6 @@ Academic Projects
   - [Tele-operated Palpation Robot](#tele-operated-palpation-robot-in-progress) ***(In progress!)***
   - [PediaCORE ADAPT System](#pediacore-adapt-system-in-progress) ***(In progress!)***
   - [Fetal-Maternal Dual Heart Monitoring System](#fetal-maternal-dual-heart-monitoring-system)
-<br/>
-
 - Course Projects
   - [Optimal Control of Quadrupedal Robot](#optimal-control-of-quadrupedal-robot-in-progress) ***(In progress!)***
   - [Optimal Control of Two-link Robot Arm](#optimal-control-of-two-link-robot-arm)
