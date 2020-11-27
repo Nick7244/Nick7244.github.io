@@ -1,0 +1,37 @@
+[Home](../index.md)<br/><br/>
+About Me
+[Academic Projects](../academicProjects/index.md){:style="margin-right: 30px;margin-left: 30px;"}
+[Personal Projects](../personalProjects/index.md){:style="margin-right: 30px;"}
+[Interests & Hobbies](../interestsAndHobbies/index.md){:style="margin-right: 30px;"}
+[Travel](../travel/index.md)
+
+# About Me
+
+Hi!
+
+My name is Nick and this is my personal website!
+
+My journey started in Long Island, NY. I grew up and spent most of my life there. Living on an island meant lots of time spent by the water. My summers were often filled with beach days and fishing.
+
+<p align="center">
+<img width="494" height="300" src="../pics/Sunset.jpg">
+</p>
+
+This is the view I had every summer night growing up, being a 5 minute walk to the beach.
+
+After leaving Long Island to attend college, I journeyed my way down to Baltimore, Maryland to persue my passion for engineering at The Johns Hopkins University. Hopkins has been my home for the past 4 and a half years, and has some pretty nice sights of its own! One of my favorite parts of campus is the view of the Gilman clock tower at sunset.
+
+<p align="center">
+<img width="555" height="300" src="../pics/Gilman.jpg">
+</p>
+
+I graduated with my B.S. in Biomedical Engineering in May 2020. Unfortunately, due to the COVID-19 outbreak, my graduation was made virtual. So here I am, decked out in my cap and gown on virtual graduation day from home!
+
+<p align="center">
+<img width="300" height="300" src="../pics/Graduation.jpg">
+</p>
+
+Since having graduated with my bachelor's, I am currently pursuing my master's in Robotics Engineering (also at the Hop!). Feel free to check out some of the projects I'm working on [here](../personalProjects/index.md)!
+
+
+
