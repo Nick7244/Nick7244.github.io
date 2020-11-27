@@ -14,6 +14,8 @@ Academic Projects
   - [Tele-operated Palpation Robot](#tele-operated-palpation-robot-in-progress) ***(In progress!)***
   - [PediaCORE ADAPT System](#pediacore-adapt-system-in-progress) ***(In progress!)***
   - [Fetal-Maternal Dual Heart Monitoring System](#fetal-maternal-dual-heart-monitoring-system)
+<br/>
+
 - Course Projects
   - [Optimal Control of Quadrupedal Robot](#optimal-control-of-quadrupedal-robot-in-progress) ***(In progress!)***
   - [Optimal Control of Two-link Robot Arm](#optimal-control-of-two-link-robot-arm)
