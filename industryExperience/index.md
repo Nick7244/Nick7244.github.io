@@ -1,16 +1,22 @@
-[**Home**](../index.md)<br/><br/>
-[**About Me**](../aboutMe/index.md){:style="margin-right: 18px;"}
-[**Academic Projects**](../academicProjects/index.md){:style="margin-right: 18px;"}
-**Industry Experience**
-[**Personal Projects**](../personalProjects/index.md){:style="margin-right: 18px;margin-left: 18px;"}
-[**Hobbies**](../hobbies/index.md){:style="margin-right: 18px;"}
-[**Travel**](../travel/index.md)
+[**Home**](../index.md){:style="margin-right: 10px;"}
+|
+[**About Me**](../aboutMe/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+|
+[**Research**](../research/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+|
+**Industry Experience**{:style="margin-right: 10px;margin-left: 10px"}
+|
+[**Projects**](../projects/index.md){:style="margin-right: 10px;margin-left: 10px"}
+|
+[**Hobbies**](../hobbies/index.md){:style="margin-right: 10px;margin-left: 10px"}
+|
+[**Travel**](../travel/index.md){:style="margin-left: 10px"}
+
+___
 
 # Industry Experience
 
 ## Table of contents:
-
-- Internships
   - [Robotics Software Engineering Intern - Globus Medical (Summer 2020)](#robotics-software-engineering-intern---globus-medical-summer-2020)
   - [Robotics Software Engineering Intern - Neocis Inc. (Summer 2019)](#robotics-software-engineering-intern---neocis-inc-summer-2019)
   

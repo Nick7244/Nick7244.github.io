@@ -1,10 +1,18 @@
-[**Home**](../index.md)<br/><br/>
-[**About Me**](../aboutMe/index.md){:style="margin-right: 18px;"}
-[**Academic Projects**](../academicProjects/index.md){:style="margin-right: 18px;"}
-[**Industry Experience**](../industryExperience/index.md){:style="margin-right: 18px;"}
-[**Personal Projects**](../personalProjects/index.md){:style="margin-right: 18px;"}
-**Hobbies**
-[**Travel**](../travel/index.md){:style="margin-left: 18px;"}
+[**Home**](../index.md){:style="margin-right: 10px;"}
+|
+[**About Me**](../aboutMe/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+|
+[**Research**](../research/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+|
+[**Industry Experience**](../industryExperience/index.md){:style="margin-right: 10px;margin-left: 10px"}
+|
+[**Projects**](../projects/index.md){:style="margin-right: 10px;margin-left: 10px"}
+|
+**Hobbies**{:style="margin-right: 10px;margin-left: 10px"}
+|
+[**Travel**](../travel/index.md){:style="margin-left: 10px"}
+
+___
 
 # Interests And Hobbies
 

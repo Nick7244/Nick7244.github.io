@@ -1,20 +1,25 @@
-[**Home**](../index.md)<br/><br/>
-[**About Me**](../aboutMe/index.md){:style="margin-right: 18px;"}
-[**Academic Projects**](../academicProjects/index.md){:style="margin-right: 18px;"}
-[**Industry Experience**](../industryExperience/index.md){:style="margin-right: 18px;"}
-[**Personal Projects**](../personalProjects/index.md){:style="margin-right: 18px;"}
-[**Hobbies**](../hobbies/index.md){:style="margin-right: 18px;"}
-**Travel**
+[**Home**](../index.md){:style="margin-right: 10px;"}
+|
+[**About Me**](../aboutMe/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+|
+[**Research**](../research/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+|
+[**Industry Experience**](../industryExperience/index.md){:style="margin-right: 10px;margin-left: 10px"}
+|
+[**Projects**](../projects/index.md){:style="margin-right: 10px;margin-left: 10px"}
+|
+[**Hobbies**](../hobbies/index.md){:style="margin-right: 10px;margin-left: 10px"}
+|
+**Travel**{:style="margin-left: 10px"}
+
+___
 
 # Travel
 
 ## Table of contents:
-
-- My various adventures
   - [Miami, FL (Summer 2019)](#miami-fl-summer-2019)
   - [East Coast Road Trip (Summer 2019)](#east-coast-road-trip-summer-2019)
   - [Pacific Northwest Adventure (Summer 2018)](#pacific-northwest-adventure-summer-2018)
-- Perennial trips/locations
   - [New York (my home)](#new-york-my-home)
   - [Maine (my 2nd home)](#maine-my-2nd-home)
 
