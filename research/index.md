@@ -55,8 +55,12 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
-<img align="right" width="450" height="300" src="../pics/DesignTeam.jpg">{:style="margin-left: 10px;"}
+<img align="right" width="450" height="300" src="../pics/DesignTeam.jpg">{:style="margin-left: 30px;"}
 PediaCORE is a former JHU BME Design Team turned independent research group now housed within the Kennedy Krieger Institute (KKI). Sponsored by Dr. Amy Bastian, Chief Science Officer of KKI, PediaCORE initially formed in the spring of 2018, with the goal of making physical therapy more engaging for children with motor disabilities. Since then, we have developed the ADAPT system, specifically with this goal in mind. As one of the original founders of the team, I have recently taken over the role of Lead Project Manager, and have been in this new leadership position since May 2020. I have since led our team of 12, consisting of undergraduate students, graduate students, and young professionals, through our ongoing first round of clinical studies. We are actively engaging and collaborating with Physical Therapists, Neuroscience experts, and Child Behavioral Psychologists to ensure the ADAPT system is a success. We look forward to seeing what the ADAPT system can accomplish, and sharing more details soon!
+
+This work was presented at the 2019 BMES Annual Meeting:
+
+- Ramesh S, Gelaf Romer T, Bergamaschi T, Sanyal A, **Maritato N**, Park J, Parise S, Li M, Bastian A. Providing a Low-Cost Virtual Reality Physiotherapy Alternative for Children with Cerebral Palsy. Poster presented at: Biomedical Engineering Society Annual Conference; 2019 October 16-19; Philadelphia, PA.
 
 **Topics of interest:**
 - Medical Device Start-up
@@ -72,13 +76,16 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
-<img align="right" width="341" height="400" src="../pics/RobustICA.jpg">{:style="margin-left: 10px;"}
-This project was completed through the REU program at University of Washington, Bothell. I worked under Dr. Hung Cao and Dr. Tadesse Ghirmai to develop an algorithm that could take abdominal ECG (aECG) data from a pregnant mother, extract out the separate fetal ECG (fECG) and maternal ECG (mECG) signals, while simultaneously removing any motion artifacts present in the signal. This algorithm utilizes Independent Component Analysis (ICA), and an analysis was done comparing results from using FastICA vs. RobustICA.
+<img align="right" width="341" height="400" src="../pics/RobustICA.jpg">{:style="margin-left: 30px;"}
+This project was completed as part of the REU program at University of Washington, Bothell. I worked under Dr. Hung Cao and Dr. Tadesse Ghirmai to develop an algorithm that could take abdominal ECG (aECG) data from a pregnant mother, extract out the separate fetal ECG (fECG) and maternal ECG (mECG) signals, while simultaneously removing any motion artifacts present in the signal. This algorithm utilizes Independent Component Analysis (ICA) for signal extraction, and an analysis was done comparing results from using FastICA vs. RobustICA. This system was implemented in a wireless electrode system that uses Bluetooth Low Energy to stream the data to the user's phone. The Android app I developed processes the data, completes the ICA extraction, and displays the fECG, mECG and associated heart rate calculations.
+
+This work was published at the 2019 IEEE IMBioC Conference, and presented at the 2018 BMES Annual Meeting:
+
+- Le T, Fortunato J, **Maritato N**, Cho Y, et al. Home-based mobile fetal/maternal electrocardiogram acquisition and extraction with cloud assistance. Paper presented at: IEEE-IMBIoC 2019 Conference; 2019 May 6-8; Nanjing, China.
+- **Maritato N**, Cho Y, et al. Continuous Maternal and Fetal ECG Extraction and Monitoring System with Secure Bluetooth Low Energy Connection. Poster presented at: Biomedical Engineering Society Annual Conference; 2018 October 17-20; Atlanta, GA.
 
 **Topics of interest:**
 - Wearable Medical Devices
 - Digital Signal Processing
 - MATLAB Programming
 - C++ Programming
-
-***Stay tuned, more to come soon!***

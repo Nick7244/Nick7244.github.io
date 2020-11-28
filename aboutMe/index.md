@@ -40,7 +40,7 @@ I graduated with my B.S. in Biomedical Engineering in May 2020. Unfortunately, d
 <img width="300" height="300" src="../pics/Graduation.jpg">
 </p>
 
-Since having graduated with my bachelor's, I am currently pursuing my master's in Robotics Engineering (also at the Hop!). Feel free to check out some of the projects I'm working on [**here**](../research/index.md#research)!
+Since having graduated with my bachelor's, I am currently pursuing my master's in Robotics Engineering (also at the Hop!). Check out some of the research projects I'm working on [**here**](../research/index.md#research)!
 
 
 

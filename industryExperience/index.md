@@ -17,12 +17,12 @@ ___
 # Industry Experience
 
 ## Table of contents:
-  - [Robotics Software Engineering Intern - Globus Medical (Summer 2020)](#robotics-software-engineering-intern---globus-medical-summer-2020)
-  - [Robotics Software Engineering Intern - Neocis Inc. (Summer 2019)](#robotics-software-engineering-intern---neocis-inc-summer-2019)
+  - [Robotics Software Intern - Globus Medical (Summer 2020)](#robotics-software-intern---globus-medical-summer-2020)
+  - [Robotics Software Intern - Neocis Inc. (Summer 2019)](#robotics-software-intern---neocis-inc-summer-2019)
   
 ___
 
-## Robotics Software Engineering Intern - Globus Medical (Summer 2020)
+## Robotics Software Intern - Globus Medical (Summer 2020)
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -36,7 +36,7 @@ both the physical and simulated robot
 
 ___
 
-## Robotics Software Engineering Intern - Neocis Inc. (Summer 2019)
+## Robotics Software Intern - Neocis Inc. (Summer 2019)
 
 [Return to Table of Contents](#table-of-contents)
 
