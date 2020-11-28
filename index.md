@@ -13,7 +13,7 @@
 ___
 
 <img align="left" width="280" height="280" src="pics/Profile.jpg">{:style="margin-right: 20px; margin-top: 20px;"}
-# Hello there!
+# Hey there!
 
 I see you've found your way over to my little corner of the internet. Well, now that you're here, have a look around!
 
