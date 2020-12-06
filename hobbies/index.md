@@ -101,14 +101,20 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+***Stay tuned, more to come soon!***
+
 ___
 
 ## Mountain Biking
 
 [Return to Table of Contents](#table-of-contents)
 
+***Stay tuned, more to come soon!***
+
 ___
 
 ## Music
 
 [Return to Table of Contents](#table-of-contents)
+
+***Stay tuned, more to come soon!***

@@ -16,6 +16,10 @@ ___
 
 # Projects
 
+```diff
+- This page is under works. Stay tuned for more information about my various projects soon!
+```
+
 ## Table of contents:
 
 - [Optimal Control of Quadrupedal Robot](#optimal-control-of-quadrupedal-robot-in-progress) ***(In progress!)***

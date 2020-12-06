@@ -88,11 +88,15 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+***Stay tuned, more to come soon!***
+
 ___
 
 ## Pacific Northwest Adventure (Summer 2018)
 
 [Return to Table of Contents](#table-of-contents)
+
+***Stay tuned, more to come soon!***
 
 ___
 
@@ -100,13 +104,12 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+***Stay tuned, more to come soon!***
+
 ___
 
 ## Maine (my 2nd home)
 
 [Return to Table of Contents](#table-of-contents)
 
-
-___
-  
 ***Stay tuned, more to come soon!***

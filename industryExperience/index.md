@@ -28,11 +28,13 @@ ___
 
 <img align="right" width="275" height="76" src="../pics/Globus%20medical.jpg">{:style="margin-left: 10px;"}
 
-- Designed a robotic simulation system to mimic the motion control of the ExcelsiusGPS spinal surgery robot
+- Designed a 1 kHz robotic simulation system to mimic the motion control of the ExcelsiusGPS spinal surgery robot
 - Developed a 3D robotics model of the ExcelsiusGPS robot using the Webots simulation environment
 - Implemented kinematics & motion control code that accurately simulates the movement of the physical robot
 - Re-architected a variety of motion control libraries with CMake configuration to ensure seamless linkages to
 both the physical and simulated robot
+- This simulation is now being utilized at two sites worldwide to more effectively develop new control behaviors 
+for the physical robot
 
 ___
 
