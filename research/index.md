@@ -18,9 +18,28 @@ ___
 
 ## Table of contents:
 
+- [Simulating an Autonomous Drone for Aerial Manipulation](#simulating-an-autonomous-drone-for-aerial-manipulation) ***(In progress!)***
 - [Tele-operated Palpation Robot](#tele-operated-palpation-robot-in-progress) ***(In progress!)***
 - [PediaCORE ADAPT System](#pediacore-adapt-system-in-progress) ***(In progress!)***
 - [Fetal-Maternal Dual Heart Monitoring System](#fetal-maternal-dual-heart-monitoring-system)
+
+___
+
+## Simulating an Autonomous Drone for Aerial Manipulation
+
+[Return to Table of Contents](#table-of-contents)
+
+<img align="right" width="300" height="229" src="../pics/drone.png">
+
+{:style="margin-left: 30px;"}
+This project is being completed through the [Autonomous Systems, Control and Optimization (ASCO) lab](https://asco.lcsr.jhu.edu/), run my Dr. Marin Kobilarov. The overall goal of the project is to develop an autonomous drone with an attached gripper that can recognize objects of interest and carry out aerial manipulation tasks. The aim of this sub-portion of the project is to develop a Gazebo simulation with ROS integration for the [IFO-S research platform](https://www.uvify.com/ifo-s/). This will then be used in the development of motion planning and perception algorithms for the drone. To properly simulate the drone, the PX4 flight controller will be utilized within the Gazebo simulation.
+
+**Topics of interest:**
+- Autonomous Systems
+- Aerial Robotics
+- ROS / Gazebo Simulation
+
+***Stay tuned, more to come soon!***
 
 ___
 

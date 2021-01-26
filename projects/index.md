@@ -45,6 +45,8 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
+[Click here to view the repository for this project](https://github.com/Nick7244/RobotArmOptimalControl)
+
 **Topics of interest:**
 - Control Theory
 - Optimization
