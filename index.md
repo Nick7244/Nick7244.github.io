@@ -20,5 +20,3 @@ I see you've found your way over to my little corner of the internet. Well, now 
 Check out my [**research portfolio**](research/index.md#research), or view some of my [**industry experiences**](industryExperience/index.md#industry-experience).
 
 Or, feel free to check out some of my [**travels and adventures**](travel/index.md#travel)!
-
-Feel free to contact me with any questions: nmarita1(at)jhu.edu
