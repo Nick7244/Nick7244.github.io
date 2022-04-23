@@ -6,7 +6,7 @@
 |
 **Industry Experience**{:style="margin-right: 10px;margin-left: 10px"}
 |
-[**About Me**](../aboutMe/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+[**About Me**](../aboutMe/index.md){:style="margin-left: 10px;"}
 
 ___
 

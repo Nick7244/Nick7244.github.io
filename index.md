@@ -1,10 +1,10 @@
-[**Projects**](projects/index.md){:style="margin-right: 20px;margin-left: 20px"}
+[**Projects**](projects/index.md){:style="margin-right: 10px"}
 |
-[**Research**](research/index.md){:style="margin-right: 20px;margin-left: 20px;"}
+[**Research**](research/index.md){:style="margin-right: 10px;margin-left: 10px;"}
 |
-[**Industry Experience**](industryExperience/index.md){:style="margin-right: 20px;margin-left: 20px"}
+[**Industry Experience**](industryExperience/index.md){:style="margin-right: 10px;margin-left: 10px"}
 |
-[**About Me**](aboutMe/index.md){:style="margin-right: 20px;"}
+[**About Me**](aboutMe/index.md){:style="margin-left: 10px;"}
 
 ___
 

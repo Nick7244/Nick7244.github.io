@@ -6,7 +6,7 @@
 |
 [**Industry Experience**](../industryExperience/index.md){:style="margin-right: 10px;margin-left: 10px"}
 |
-[**About Me**](../aboutMe/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+[**About Me**](../aboutMe/index.md){:style="margin-left: 10px;"}
 
 ___
 
@@ -18,19 +18,13 @@ ___
 
 ## Table of contents:
 ### Robotics Projects:
-- Kendama-bot: The Kendama Playing UR5
-- UR5 Box Sorting Robot
+- [Kendama-bot: The Kendama Playing UR5](#kendama-bot-the-kendama-playing-ur5)
+- [UR5 Box Sorting Robot](#ur5-box-sorting-robot)
 - DRAKE Robot Simulation
 
 ### Software Projects:
 - Command Line Chess
 - Command Line Photoshop
-
-### Coming Soon:
-- Optimal Control of Two-link Robot Arm
-- Optimal Control of Quadrupedal Robot
-- EOG Controlled RC Car
-- Personal Heart Rate Monitor
 
 ___
 ## Kendama-bot: The Kendama Playing UR5
