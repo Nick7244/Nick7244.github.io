@@ -35,6 +35,7 @@ ___
 - Optimal Control of Quadrupedal Robot
 - EOG Controlled RC Car
 - Personal Heart Rate Monitor
+
 ___
 ## Kendama-bot: The Kendama Playing UR5
 
@@ -49,19 +50,25 @@ This project was part of my Master's course work. The aim was to control the UR5
 
 <p align="center">
 <strong>Kendata-Bot in action!</strong>
+</p>
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W81ucJehiYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p align="center">
 <strong>Simulated ball tracking & catching in Gazebo:</strong>
+</p>
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfKX0M3ABXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p align="center">
 <strong>Simulated ball launching in Gazebo:</strong>
+</p>
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3MrRn420GkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
@@ -87,13 +94,17 @@ This project was part of my Master's course work. The aim was to control the UR5
 
 <p align="center">
 <strong>Trajectory Optimization for Obstacle Avoidance</strong>
+</p>
 
+<p align="center">
 <img width="617" height="274" src="../pics/UR5-box-sorting/Trajectory-Optimization.png">
 </p>
 
 <p align="center">
 <strong>Workflow Diagram</strong>
+</p>
 
+<p align="center">
 <img width="617" height="307" src="../pics/UR5-box-sorting/logic-diagram.png">
 </p>
 
