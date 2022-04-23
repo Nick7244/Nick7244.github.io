@@ -1,16 +1,12 @@
 [**Home**](../index.md){:style="margin-right: 10px;"}
 |
-[**About Me**](../aboutMe/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+[**Projects**](../projects/index.md){:style="margin-right: 10px;margin-left: 10px"}
 |
 [**Research**](../research/index.md){:style="margin-right: 10px;margin-left: 10px;"}
 |
 **Industry Experience**{:style="margin-right: 10px;margin-left: 10px"}
 |
-[**Projects**](../projects/index.md){:style="margin-right: 10px;margin-left: 10px"}
-|
-[**Hobbies**](../hobbies/index.md){:style="margin-right: 10px;margin-left: 10px"}
-|
-[**Travel**](../travel/index.md){:style="margin-left: 10px"}
+[**About Me**](../aboutMe/index.md){:style="margin-right: 10px;margin-left: 10px;"}
 
 ___
 

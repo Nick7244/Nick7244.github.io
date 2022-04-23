@@ -1,14 +1,10 @@
-[**About Me**](aboutMe/index.md){:style="margin-right: 20px;"}
+[**Projects**](projects/index.md){:style="margin-right: 20px;margin-left: 20px"}
 |
 [**Research**](research/index.md){:style="margin-right: 20px;margin-left: 20px;"}
 |
 [**Industry Experience**](industryExperience/index.md){:style="margin-right: 20px;margin-left: 20px"}
 |
-[**Projects**](projects/index.md){:style="margin-right: 20px;margin-left: 20px"}
-|
-[**Hobbies**](hobbies/index.md){:style="margin-right: 20px;margin-left: 20px"}
-|
-[**Travel**](travel/index.md){:style="margin-left: 20px"}
+[**About Me**](aboutMe/index.md){:style="margin-right: 20px;"}
 
 ___
 

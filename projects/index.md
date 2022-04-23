@@ -1,16 +1,12 @@
 [**Home**](../index.md){:style="margin-right: 10px;"}
 |
-[**About Me**](../aboutMe/index.md){:style="margin-right: 10px;margin-left: 10px;"}
+**Projects**{:style="margin-right: 10px;margin-left: 10px"}
 |
 [**Research**](../research/index.md){:style="margin-right: 10px;margin-left: 10px;"}
 |
 [**Industry Experience**](../industryExperience/index.md){:style="margin-right: 10px;margin-left: 10px"}
 |
-**Projects**{:style="margin-right: 10px;margin-left: 10px"}
-|
-[**Hobbies**](../hobbies/index.md){:style="margin-right: 10px;margin-left: 10px"}
-|
-[**Travel**](../travel/index.md){:style="margin-left: 10px"}
+[**About Me**](../aboutMe/index.md){:style="margin-right: 10px;margin-left: 10px;"}
 
 ___
 
@@ -84,7 +80,7 @@ ___
 - ROS
 - Gazebo Simulation
 
-This project was part of my Master's course work. The aim was to control the UR5 robotic arm to sort packages in a manufacturing setting. We utilized [Constrained Nonlinear Optimization](https://en.wikipedia.org/wiki/Nonlinear_programming) to generate optimal trajectories for the UR5 with built in obstacle avoidance. We then utilized a [Nonlinear Backstepping Controller](https://en.wikipedia.org/wiki/Backstepping) to follow the optimized trajectories. The proect was developed on a simulated UR5 using ROS & Gazebo.
+This project was part of my Master's course work. The aim was to control the UR5 robotic arm to sort packages in a manufacturing setting. We utilized [Constrained Nonlinear Optimization](https://en.wikipedia.org/wiki/Nonlinear_programming) to generate optimal trajectories for the UR5 with built in obstacle avoidance. We then utilized a [Nonlinear Backstepping Controller](https://en.wikipedia.org/wiki/Backstepping) to follow the optimized trajectories. The project was developed on a simulated UR5 using ROS & Gazebo.
 
 <p align="center">
 <strong>Simulated UR5 Box Sorting Trajectory Tracking</strong>
