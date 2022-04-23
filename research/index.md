@@ -14,8 +14,7 @@ ___
 
 ## Table of contents:
 
-- [Simulating an Autonomous Drone for Aerial Manipulation](#simulating-an-autonomous-drone-for-aerial-manipulation) ***(In progress!)***
-- [Tele-operated Palpation Robot](#tele-operated-palpation-robot-in-progress) ***(In progress!)***
+- [Simulating an Autonomous Drone for Aerial Manipulation](#simulating-an-autonomous-drone-for-aerial-manipulation)
 - [PediaCORE ADAPT System](#pediacore-adapt-system-in-progress) ***(In progress!)***
 - [Fetal-Maternal Dual Heart Monitoring System](#fetal-maternal-dual-heart-monitoring-system)
 
@@ -34,33 +33,6 @@ This project is being completed through the [Autonomous Systems, Control and Opt
 - Autonomous Systems
 - Aerial Robotics
 - ROS / Gazebo Simulation
-
-***Stay tuned, more to come soon!***
-
-___
-
-## Tele-operated Palpation Robot ***(In progress!)***
-
-[Return to Table of Contents](#table-of-contents)
-
-<p align="center">
-<img width="595" height="250" src="../pics/HonorsInstrumentation.png">
-</p>
-
-This project was completed for the Honors Instrumentation course under Dr. Nitish Thakor at JHU. The aim of the project was to utilize the UR5 robot arm for tele-operated palpation tasks. To accomplish this, me and my project team built a wireless arm tracker which could estimate the user's wrist position relative to their shoulder over time, utilizing the Madgwick sensor fusion algorithm on a pair of 9-DOF IMU sensors. This wrist position is then sent to the UR5 over bluetooth, where it is used as input to the inverse kinematics for control over the UR5. The UR5 then moves to achieve the same end-effector position as the user's wrist, running at a sampling rate of ~20 Hz. For the palpation side of the project, we built a tactile sensing palpation probe that attaches to the end-effector of the UR5. Using a grid array of piezoelectric fabric strips as well as a pair of thermistors, we are able to sense pressure and temperature information from the skin of the patient. This information is then fed back to the user in two different forms of feedback. A GUI heat map demonstrates visually the levels of pressure for each segment of the grid array and the relative temperature of the two thermistors, while buzzer motors in a glove worn by the user provides haptic feedback of the level of pressure felt by the probe.
-
-***Current improvements*** to the project include the following:
-- Comparison of the estimation results and computational efficiency of using a Kalman filter in place of the Madgwick algorithm
-- Implementation of the MoveIt! motion planning service to increase the efficiency of the inverse kinematics
-- Implementing object avoidance using optimal control techniques
-
-**Topics of interest:**
-- Medical Robotics
-- ROS / Gazebo Simulation
-- Robot Kinematics
-- Robot Sensors & Actuators
-- MATLAB Programming
-- Arduino Programming
 
 ***Stay tuned, more to come soon!***
 

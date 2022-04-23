@@ -1,4 +1,6 @@
-[**Projects**](projects/index.md){:style="margin-right: 10px"}
+**Home**{:style="margin-right: 10px;"}
+|
+[**Projects**](projects/index.md){:style="margin-right: 10px;margin-left: 10px"}
 |
 [**Research**](research/index.md){:style="margin-right: 10px;margin-left: 10px;"}
 |
