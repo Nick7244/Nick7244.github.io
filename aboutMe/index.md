@@ -36,7 +36,11 @@ I graduated with my B.S. in Biomedical Engineering in May 2020. Unfortunately, d
 <img width="300" height="300" src="../pics/Graduation.jpg">
 </p>
 
-Since having graduated with my bachelor's, I am currently pursuing my master's in Robotics Engineering (also at the Hop!). Check out some of the research projects I'm working on [**here**](../research/index.md#research)!
+I then moved on to pursue my M.S.E. in Robotics Engineering, also at Johns Hopkins University. I graduated in May of 2021 (also a COVID graduation).
+
+After finishing my master's I found myself moving up to Boston, Massachusetts where I now work as a Software Engineer at Globus Medical, working on some of the coolest medical robots in the industry!
+
+Check out some of my personal projects I'm working on [**here**](../projects/index.md)!
 
 
 
