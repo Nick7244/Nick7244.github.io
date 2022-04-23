@@ -17,106 +17,74 @@ ___
 # Projects
 
 ```diff
-- This page is under works. Stay tuned for more information about my various projects soon!
+- This page is currently undergoing some work. Some content may be missing or incomplete.
 ```
 
 ## Table of contents:
+### Robotics Projects:
+- Kendama-bot: The Kendama Playing UR5
+- UR5 Box Sorting Robot
+- DRAKE Robot Simulation
 
-- [Optimal Control of Quadrupedal Robot](#optimal-control-of-quadrupedal-robot-in-progress) ***(In progress!)***
-- [Optimal Control of Two-link Robot Arm](#optimal-control-of-two-link-robot-arm)
-- [Autonomous Car with Stop Sign Detection](#autonomous-car-with-stop-sign-detection-in-progress) ***(In progress!)***
-- [EOG Controlled Car](#eog-controlled-car)
-- [Personal Heart Rate Monitor](#personal-heart-rate-monitor)
-- [Wind Heading and Compass Monitoring System for RC Boat](#wind-heading-and-compass-monitoring-system-for-rc-boat)
-- [Command Line Chess](#command-line-chess)
-- [Homemade Photoshop](#homemade-photoshop)
+### Software Projects:
+- Command Line Chess
+- Command Line Photoshop
 
+### Coming Soon:
+- Optimal Control of Two-link Robot Arm
+- Optimal Control of Quadrupedal Robot
+- EOG Controlled RC Car
+- Personal Heart Rate Monitor
 ___
-
-## Optimal Control of Quadrupedal Robot ***(In progress!)***
+## Kendama-bot: The Kendama Playing UR5
 
 [Return to Table of Contents](#table-of-contents)
 
-***Stay tuned, more to come soon!***
+This project was part of my Master's course work. The aim was to build control software to control the UR5 robotic arm to play [Kendama](https://en.wikipedia.org/wiki/Kendama). The proect was first developed on a simulated UR5 using ROS & Gazebo. The code was then deployed onto a physical UR5.
 
-___
+***Simulated ball tracking & catching in Gazebo:***
 
-## Optimal Control of Two-link Robot Arm
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfKX0M3ABXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
-[Return to Table of Contents](#table-of-contents)
+***Simulated ball launching in Gazebo:***
 
-[Click here to view the repository for this project](https://github.com/Nick7244/RobotArmOptimalControl)
-
-**Topics of interest:**
-- Control Theory
-- Optimization
-- MATLAB Programming
-
-***Stay tuned, more to come soon!***
-
-___
-
-## Autonomous Car with Stop Sign Detection ***(In progress!)***
-
-[Return to Table of Contents](#table-of-contents) 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3MrRn420GkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 **Topics of interest:**
-- Computer Vision
-- Machine Learning
-- Python Programming
-- Arduino Programming
-- Robot Sensors & Actuators
+- Robotics
+- ROS
+- Gazebo Simulation
 
-***Stay tuned, more to come soon!***
-
+[INSERT IMAGE HERE]
 ___
-
-## EOG Controlled Car
+## UR5 Box Sorting Robot
 
 [Return to Table of Contents](#table-of-contents)
 
 **Topics of interest:**
-- Analog Signal Processing
-- Robot Sensors & Actuators
-- Arduino Programming
+- Robotics
+- Optimal Trajectory Generation
+- Nonlinear Control Systems
+- ROS
+- Gazebo Simulation
 
-***Stay tuned, more to come soon!***
-
-___
-
-## Personal Heart Rate Monitor
-
-[Return to Table of Contents](#table-of-contents)
-
-**Topics of interest:**
-- Analog Signal Processing
-- Arduino Programming
-
-***Stay tuned, more to come soon!***
+[INSERT IMAGE HERE]
 
 ___
-
-## Wind Heading and Compass Monitoring System for RC Boat
-
-[Return to Table of Contents](#table-of-contents)
-
-**Topics of interest:**
-- Arduino Programming
-- Robot Sensors & Actuators
-
-***Stay tuned, more to come soon!***
-
-___
-
 ## Command Line Chess
 
 [Return to Table of Contents](#table-of-contents)
 
+[Github Repo](https://github.com/Nick7244/RobotArmOptimalControl)
+
 **Topics of interest:**
 - C++ Programming
 
-***Stay tuned, more to come soon!***
-
+[INSERT IMAGE HERE]
 ___
 
 ## Homemade Photoshop
@@ -127,4 +95,4 @@ ___
 - C++ Programming
 - Image Processing
 
-***Stay tuned, more to come soon!***
+[INSERT IMAGE HERE]
