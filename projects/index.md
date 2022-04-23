@@ -40,7 +40,12 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
-This project was part of my Master's course work. The aim was to build control software to control the UR5 robotic arm to play [Kendama](https://en.wikipedia.org/wiki/Kendama). The proect was first developed on a simulated UR5 using ROS & Gazebo. The code was then deployed onto a physical UR5.
+**Topics of interest:**
+- Robotics
+- ROS
+- Gazebo Simulation
+
+This project was part of my Master's course work. The aim was to control the UR5 robotic arm to play [Kendama](https://en.wikipedia.org/wiki/Kendama). The proect was first developed on a simulated UR5 using ROS & Gazebo. We then deployed our code onto a physical UR5.
 
 <p align="center">
 <strong>Kendata-Bot in action!</strong>
@@ -60,12 +65,6 @@ This project was part of my Master's course work. The aim was to build control s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3MrRn420GkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-**Topics of interest:**
-- Robotics
-- ROS
-- Gazebo Simulation
-
-[INSERT IMAGE HERE]
 ___
 ## UR5 Box Sorting Robot
 
@@ -78,7 +77,26 @@ ___
 - ROS
 - Gazebo Simulation
 
-[INSERT IMAGE HERE]
+This project was part of my Master's course work. The aim was to control the UR5 robotic arm to sort packages in a manufacturing setting. We utilized [Constrained Nonlinear Optimization](https://en.wikipedia.org/wiki/Nonlinear_programming) to generate optimal trajectories for the UR5 with built in obstacle avoidance. We then utilized a [Nonlinear Backstepping Controller](https://en.wikipedia.org/wiki/Backstepping) to follow the optimized trajectories. The proect was developed on a simulated UR5 using ROS & Gazebo.
+
+<p align="center">
+<strong>Simulated UR5 Box Sorting Trajectory Tracking</strong>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Oi9Dar5aA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p align="center">
+<strong>Trajectory Optimization for Obstacle Avoidance</strong>
+
+<img width="617" height="274" src="../pics/UR5-box-sorting/Trajectory-Optimization.png">
+</p>
+
+<p align="center">
+<strong>Workflow Diagram</strong>
+
+<img width="617" height="307" src="../pics/UR5-box-sorting/logic-diagram.png">
+</p>
+
 
 ___
 ## Command Line Chess
