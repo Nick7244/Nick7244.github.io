@@ -42,15 +42,21 @@ ___
 
 This project was part of my Master's course work. The aim was to build control software to control the UR5 robotic arm to play [Kendama](https://en.wikipedia.org/wiki/Kendama). The proect was first developed on a simulated UR5 using ROS & Gazebo. The code was then deployed onto a physical UR5.
 
-***Simulated ball tracking & catching in Gazebo:***
+<p align="center">
+<strong>Kendata-Bot in action!</strong>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W81ucJehiYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <p align="center">
+<strong>Simulated ball tracking & catching in Gazebo:</strong>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfKX0M3ABXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-***Simulated ball launching in Gazebo:***
-
 <p align="center">
+<strong>Simulated ball launching in Gazebo:</strong>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3MrRn420GkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
