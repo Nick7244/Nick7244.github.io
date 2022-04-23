@@ -15,6 +15,6 @@ ___
 
 I see you've found your way over to my little corner of the internet. Well, now that you're here, have a look around!
 
-Check out my [**research portfolio**](research/index.md#research), or view some of my [**industry experiences**](industryExperience/index.md#industry-experience).
+Check out some of the [**personal projects**](projects/index.md#projects) I'm working on!
 
-Or, feel free to check out some of my [**travels and adventures**](travel/index.md#travel)!
+Or check out my [**research portfolio**](research/index.md#research), or view some of my [**industry experiences**](industryExperience/index.md#industry-experience).

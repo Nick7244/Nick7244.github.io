@@ -12,10 +12,6 @@ ___
 
 # Projects
 
-```diff
-- This page is currently undergoing some work. Some content may be missing or incomplete.
-```
-
 ## Table of contents:
 ### Robotics Projects:
 - [Kendama-bot: The Kendama Playing UR5](#kendama-bot-the-kendama-playing-ur5)

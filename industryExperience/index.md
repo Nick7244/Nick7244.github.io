@@ -13,16 +13,31 @@ ___
 # Industry Experience
 
 ## Table of contents:
-  - [Robotics Software Intern - Globus Medical (Summer 2020)](#robotics-software-intern---globus-medical-summer-2020)
-  - [Robotics Software Intern - Neocis Inc. (Summer 2019)](#robotics-software-intern---neocis-inc-summer-2019)
-  
+  - [Software Engineer - Robotics @ Globus Medical (July 2021 - present)](#software-engineer---robotics--globus-medical-july-2021---present)
+  - [Robotics Software Intern @ Globus Medical (Summer 2020)](#robotics-software-intern--globus-medical-summer-2020)
+  - [Robotics Software Intern @ Neocis (Summer 2019)](#robotics-software-intern--neocis-inc-summer-2019)
+
 ___
 
-## Robotics Software Intern - Globus Medical (Summer 2020)
+## Software Engineer - Robotics @ Globus Medical (July 2021 - present)
 
 [Return to Table of Contents](#table-of-contents)
 
+
 <img align="right" width="275" height="76" src="../pics/Globus%20medical.jpg">{:style="margin-left: 10px;"}
+
+- Optimized the kinematic calibration algorithm for the Excelsius3D robotic imaging system, increasing accuracy of patient registration by ~200%
+- Re-architected the TCP communication between the ExcelsiusGPS spinal surgery robot and the GMAS motion controller, ensuring continuous and reliable communication between the two
+- Led the development of a full-stack re-architecture of motion control modules in the Spine application for the ExcelsiusGPS, leveraging n-tier architecture for a professional and modular implementation
+
+
+___
+
+## Robotics Software Intern @ Globus Medical (Summer 2020)
+
+[Return to Table of Contents](#table-of-contents)
+
+<img align="right" width="230" height="285" src="../pics/eGPS.png">{:style="margin-left: 10px;"}
 
 - Designed a 1 kHz robotic simulation system to mimic the motion control of the ExcelsiusGPS spinal surgery robot
 - Developed a 3D robotics model of the ExcelsiusGPS robot using the Webots simulation environment
@@ -34,7 +49,7 @@ for the physical robot
 
 ___
 
-## Robotics Software Intern - Neocis Inc. (Summer 2019)
+## Robotics Software Intern @ Neocis Inc. (Summer 2019)
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -43,5 +58,5 @@ ___
 - Designed and developed control software algorithms for implementation in the Yomi dental surgery robot
 - Worked collaboratively with both hardware and software engineers to improve haptics control algorithms
 - Developed a haptics algorithm to discriminate between active surgeon manipulation and an idle robot
-  - Increased the accuracy of successfully detecting active surgeon manipulation by over 3000%
+  - Increased the accuracy of successfully detecting active surgeon manipulation by ~3000%
   - Greatly decreased the risk of movement drift when system is idle, minimizing patient risk during surgery
