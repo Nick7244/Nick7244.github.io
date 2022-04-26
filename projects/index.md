@@ -36,6 +36,7 @@ ___
 This project was part of my Master's course work. The aim was to control the UR5 robotic arm to play [Kendama](https://en.wikipedia.org/wiki/Kendama). The proect was first developed on a simulated UR5 using ROS & Gazebo. We then deployed our code onto a physical UR5.
 
 <p align="center">
+<br>
 <strong>Kendata-Bot in action!</strong>
 </p>
 
@@ -44,6 +45,7 @@ This project was part of my Master's course work. The aim was to control the UR5
 </p>
 
 <p align="center">
+<br>
 <strong>Simulated ball tracking & catching in Gazebo:</strong>
 </p>
 
@@ -52,6 +54,7 @@ This project was part of my Master's course work. The aim was to control the UR5
 </p>
 
 <p align="center">
+<br>
 <strong>Simulated ball launching in Gazebo:</strong>
 </p>
 
@@ -74,12 +77,16 @@ ___
 This project was part of my Master's course work. The aim was to control the UR5 robotic arm to sort packages in a manufacturing setting. We utilized [Constrained Nonlinear Optimization](https://en.wikipedia.org/wiki/Nonlinear_programming) to generate optimal trajectories for the UR5 with built in obstacle avoidance. We then utilized a [Nonlinear Backstepping Controller](https://en.wikipedia.org/wiki/Backstepping) to follow the optimized trajectories. The project was developed on a simulated UR5 using ROS & Gazebo.
 
 <p align="center">
+<br>
 <strong>Simulated UR5 Box Sorting Trajectory Tracking</strong>
+</p>
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Oi9Dar5aA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p align="center">
+<br>
 <strong>Trajectory Optimization for Obstacle Avoidance</strong>
 </p>
 
@@ -88,6 +95,7 @@ This project was part of my Master's course work. The aim was to control the UR5
 </p>
 
 <p align="center">
+<br>
 <strong>Workflow Diagram</strong>
 </p>
 
