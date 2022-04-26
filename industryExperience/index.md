@@ -24,7 +24,7 @@ ___
 [Return to Table of Contents](#table-of-contents)
 
 
-<img align="right" width="275" height="76" src="../pics/Globus%20medical.jpg">{:style="margin-left: 10px;"}
+<img align="right" width="275" height="76" src="../pics/Industry/Globus%20medical.jpg">{:style="margin-left: 10px;"}
 
 - Optimized the kinematic calibration algorithm for the Excelsius3D robotic imaging system, increasing accuracy of patient registration by ~200%
 - Re-architected the TCP communication between the ExcelsiusGPS spinal surgery robot and the GMAS motion controller, ensuring continuous and reliable communication between the two
@@ -37,7 +37,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
-<img align="right" width="230" height="285" src="../pics/eGPS.png">{:style="margin-left: 10px;"}
+<img align="right" width="230" height="285" src="../pics/Industry/eGPS.png">{:style="margin-left: 10px;"}
 
 - Designed a 1 kHz robotic simulation system to mimic the motion control of the ExcelsiusGPS spinal surgery robot
 - Developed a 3D robotics model of the ExcelsiusGPS robot using the Webots simulation environment
@@ -53,7 +53,7 @@ ___
 
 [Return to Table of Contents](#table-of-contents)
 
-<img align="right" width="275" height="128" src="../pics/neocis.jpg">
+<img align="right" width="275" height="128" src="../pics/Industry/neocis.jpg">
 
 - Designed and developed control software algorithms for implementation in the Yomi dental surgery robot
 - Worked collaboratively with both hardware and software engineers to improve haptics control algorithms
