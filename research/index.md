@@ -57,6 +57,17 @@ ___
 <img align="right" width="450" height="300" src="../pics/PediaCORE/DesignTeam.jpg">{:style="margin-left: 30px;"}
 PediaCORE is a former JHU BME Design Team turned independent research group now housed within the Kennedy Krieger Institute (KKI). Sponsored by Dr. Amy Bastian, Chief Science Officer of KKI, PediaCORE initially formed in the spring of 2018, with the goal of making physical therapy more engaging for children with motor disabilities. Since then, we have developed the ADAPT system, specifically with this goal in mind. As one of the original founders of the team, I have recently taken over the role of Lead Project Manager, and have been in this new leadership position since May 2020. I have since led our team of 12, consisting of undergraduate students, graduate students, and young professionals, through our ongoing first round of clinical studies. We are actively engaging and collaborating with Physical Therapists, Neuroscience experts, and Child Behavioral Psychologists to ensure the ADAPT system is a success. We look forward to seeing what the ADAPT system can accomplish, and sharing more details soon!
 
+<p align="center">
+<br>
+<strong>See what PediaCORE is all about!</strong>
+</p>
+
+<p align="center">
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/559030222?h=9abe798612" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<br>
+
 This work was presented at the 2019 BMES Annual Meeting:
 
 - Ramesh S, Gelaf Romer T, Bergamaschi T, Sanyal A, **Maritato N**, Park J, Parise S, Li M, Bastian A. Providing a Low-Cost Virtual Reality Physiotherapy Alternative for Children with Cerebral Palsy. Poster presented at: Biomedical Engineering Society Annual Conference; 2019 October 16-19; Philadelphia, PA.
