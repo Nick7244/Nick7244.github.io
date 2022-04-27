@@ -28,6 +28,8 @@ ___
 - ROS
 - Gazebo Simulation
 
+[Click here for link to Github repo for this project.](https://github.com/Nick7244/UR5-Kendama-Bot)
+
 This project was part of my Master's course work. The aim was to control the UR5 robotic arm to play [Kendama](https://en.wikipedia.org/wiki/Kendama). The proect was first developed on a simulated UR5 using ROS & Gazebo. We then deployed our code onto a physical UR5.
 
 <p align="center">
@@ -68,6 +70,8 @@ ___
 - Nonlinear Control Systems
 - ROS
 - Gazebo Simulation
+
+[Click here for link to Github repo for this project.](https://github.com/Nick7244/UR5-Box-Sorting-Robot)
 
 This project was part of my Master's course work. The aim was to control the UR5 robotic arm to sort packages in a manufacturing setting. We utilized [Constrained Nonlinear Optimization](https://en.wikipedia.org/wiki/Nonlinear_programming) to generate optimal trajectories for the UR5 with built in obstacle avoidance. We then utilized a [Nonlinear Backstepping Controller](https://en.wikipedia.org/wiki/Backstepping) to follow the optimized trajectories. The project was developed on a simulated UR5 using ROS & Gazebo.
 
