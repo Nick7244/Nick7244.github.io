@@ -26,9 +26,9 @@ ___
 
 <img align="right" width="275" height="76" src="../pics/Industry/Globus%20medical.jpg">{:style="margin-left: 10px;"}
 
-- Optimized the kinematic calibration algorithm for the Excelsius3D robotic imaging system, increasing accuracy of patient registration by ~200%
-- Re-architected the TCP communication between the ExcelsiusGPS spinal surgery robot and the GMAS motion controller, ensuring continuous and reliable communication between the two
-- Led the development of a full-stack re-architecture of motion control modules in the Spine application for the ExcelsiusGPS, leveraging n-tier architecture for a professional and modular implementation
+- Led the development of a full-stack C++ re-architecture of motion control modules for the ExcelsiusGPS, including a full-scale overhaul of surgical navigation and accuracy calculations during automated robotic motion
+- Utilized C++ to re-architect TCP communication between the ExcelsiusGPS surgery robot and embedded GMAS motion controller, ensuring continuous and reliable 40Hz communication of odometry and tracking information
+- Optimized the kinematic calibration algorithm, in C++, for the Excelsius3D robotic imaging system, enabling 200% more accurate patient registration for navigated surgical CT scans and Fluoroscopy shots
 
 
 ___
@@ -41,7 +41,7 @@ ___
 
 - Designed a 1 kHz robotic simulation system to mimic the motion control of the ExcelsiusGPS spinal surgery robot
 - Developed a 3D robotics model of the ExcelsiusGPS robot using the Webots simulation environment
-- Implemented kinematics & motion control code that accurately simulates the movement of the physical robot
+- Implemented kinematic motion control code and simulated hardware interfaces, in C++, to accurately simulate the movement and telemetry information of the physical robot
 - Re-architected a variety of motion control libraries with CMake configuration to ensure seamless linkages to
 both the physical and simulated robot
 - This simulation is now being utilized at two sites worldwide to more effectively develop new control behaviors 
